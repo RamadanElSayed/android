@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_dubci_logo_hq.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-mdpi\\dubci_logo_hq.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_travel.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_travel.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_thin_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_thin_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_actionbar_add.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\actionbar_add.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_roboto_bold.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_key_black_24dp.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_key_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_extrabold_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_extrabold_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_fragment_review.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_small_arrow.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_small_arrow.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_semibold.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_semibold.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_search_view.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\search_view.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_medium.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_medium.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_group_9848.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\group_9848.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_addresses.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_addresses.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_service.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_address.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_extra_light.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_extra_light.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_main_activity_menu.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\main_activity_menu.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_favorite.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\favorite.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_dubci_logo_hq.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\dubci_logo_hq.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_fragment_travel_driver.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_driver.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_roboto_regular.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_edit_profile.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_rider_logo.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxxhdpi\\rider_logo.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_button_apply_coupon.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\button_apply_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_group_9840.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xhdpi\\group_9840.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_book_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_book_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_fragment_travel_review.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_review.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_my_location.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\my_location.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_rider_splash.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\rider_splash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_light_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_light_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_semibold_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_semibold_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\xml_app_preferences.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\xml\\app_preferences.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_extrabold.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_extrabold.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_rider_splash.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxhdpi\\rider_splash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_font_family.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\font_family.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_group_9848.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxhdpi\\group_9848.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_bold_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_bold_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_fragment_edit_address.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_edit_address.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_looking.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_looking.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_group_9840.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxhdpi\\group_9840.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_rider_logo.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\rider_logo.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_nav_item_travels.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\nav_item_travels.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_group_9840.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxxhdpi\\group_9840.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_dubci_logo_hq.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xhdpi\\dubci_logo_hq.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_rider_logo.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xhdpi\\rider_logo.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_nav_item_promotions.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\nav_item_promotions.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_location.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_rider_splash.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-mdpi\\rider_splash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_rider_logo.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-mdpi\\rider_logo.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_balance.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_account_balance.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_group_9848.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxxhdpi\\group_9848.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_light.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_light.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_nav_item_favorites.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\nav_item_favorites.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_dubci_logo_hq.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxhdpi\\dubci_logo_hq.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_refresh.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_main_drawer.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\main_drawer.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_medium_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_medium_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_thin.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_thin.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_bold.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_bold.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_fragment_travel_stats.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_stats.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_black.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_black.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_promotions.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_promotions.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_edit_location.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_edit_location.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_rider_splash.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxxhdpi\\rider_splash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_coupon.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_rider_logo.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxhdpi\\rider_logo.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_rider_login.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_rider_login.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_main_search_location.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_main_search_location.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_keyboard_voice.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\keyboard_voice.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_extra_light_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_extra_light_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_nav_item_coupon.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\nav_item_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_group_9848.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-mdpi\\group_9848.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_coupon.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_black_italic.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_black_italic.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_group_9848.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xhdpi\\group_9848.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_group_9840.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-mdpi\\group_9840.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_dubci_logo_hq.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xxxhdpi\\dubci_logo_hq.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_promotion.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_promotion.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_rider_splash.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-xhdpi\\rider_splash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_back.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_map.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\map.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_roboto_medium.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_group_9840.png.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\group_9840.png"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_ic_search.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\font_campton_book.ttf.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_book.ttf"
+    }
+]

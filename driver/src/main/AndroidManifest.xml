@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tawabsoft.taxi.driver"
+    android:hardwareAccelerated="true">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name="com.tawabsoft.taxi.common.MyTaxiApplication"
+        android:allowBackup="true"
+        android:clearTaskOnLaunch="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/group_9840"
+        android:label="@string/driver_app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/group_9840"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Default"
+        android:usesCleartextTraffic="true"
+        tools:ignore="UnusedAttribute"
+        tools:replace="android:label">
+        <activity android:name=".login.LoginDriverActivity"></activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.braintreepayments.api.BraintreeBrowserSwitchActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="${applicationId}.braintree" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tawabsoft.taxi.common.activities.chargeAccount.ChargeAccountActivity" />
+        <activity
+            android:name=".activities.splash.SplashActivity"
+          >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.main.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activities.profile.ProfileActivity" />
+        <activity android:name=".activities.waitingForPayment.WaitingForPaymentActivity" />
+        <activity
+            android:name=".activities.travel.TravelActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:theme="@style/Theme.Default" />
+        <activity android:name=".activities.statistics.StatisticsActivity" />
+        <activity android:name=".activities.about.AboutActivity" />
+    </application>
+
+</manifest>

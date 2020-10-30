@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.tawabsoft.taxi.rider",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 54,
+      "versionName": "54",
+      "enabled": true,
+      "outputFile": "rider-debug.apk"
+    }
+  ]
+}

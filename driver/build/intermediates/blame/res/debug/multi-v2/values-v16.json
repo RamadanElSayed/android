@@ -1,0 +1,83 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\android\\android\\driver\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\8062399b56c5afad04557572725b5e10\\core-1.3.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "65",
+                        "endOffsets": "161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2b9dc3156ccdc258a353200588981e70\\jetified-drop-in-3.7.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2,6,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,295,788",
+                        "endLines": "5,14,25",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "290,783,1388"
+                    },
+                    "to": {
+                        "startLines": "11,15,24",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "527,722,1215",
+                        "endLines": "14,23,34",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "717,1210,1815"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "166",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "349"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2a6064e48ea76a50fb94626c27fa3e13\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "522"
+                    }
+                }
+            ]
+        }
+    ]
+}

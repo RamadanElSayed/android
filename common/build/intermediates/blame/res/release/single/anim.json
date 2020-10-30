@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_out_to_right.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_close_exit.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\interpolator_slight_overshoot.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\interpolator_slight_overshoot.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fui_slide_out_left.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\c4af58c99290f01fd46133a37fdcc840\\jetified-firebase-ui-auth-6.2.1\\res\\anim\\fui_slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_in_from_left.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_scale.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\79f851be0d2939f607a6699ab1932af5\\jetified-ucrop-2.2.4\\res\\anim\\ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_bottom_sheet_dialog_open.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2b9dc3156ccdc258a353200588981e70\\jetified-drop-in-3.7.1\\res\\anim\\bt_bottom_sheet_dialog_open.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_expiration_date_dialog_open.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\640ff80afce6b7b6df6be686ec52e802\\jetified-card-form-3.5.0\\res\\anim\\bt_expiration_date_dialog_open.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_in_from_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fui_slide_in_right.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\c4af58c99290f01fd46133a37fdcc840\\jetified-firebase-ui-auth-6.2.1\\res\\anim\\fui_slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\interpolator_slight_anticipate.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\interpolator_slight_anticipate.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\ucrop_loader_circle_path.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\79f851be0d2939f607a6699ab1932af5\\jetified-ucrop-2.2.4\\res\\anim\\ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_slide_in_up.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2b9dc3156ccdc258a353200588981e70\\jetified-drop-in-3.7.1\\res\\anim\\bt_slide_in_up.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_out_to_top.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_in_from_top.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_bottom_sheet_dialog_close.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2b9dc3156ccdc258a353200588981e70\\jetified-drop-in-3.7.1\\res\\anim\\bt_bottom_sheet_dialog_close.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_fast_out_extra_slow_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\mtrl_card_lowers_interpolator.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_open_enter.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_slide_out_down.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\2b9dc3156ccdc258a353200588981e70\\jetified-drop-in-3.7.1\\res\\anim\\bt_slide_out_down.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\anim\\mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_expiration_date_dialog_close.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\640ff80afce6b7b6df6be686ec52e802\\jetified-card-form-3.5.0\\res\\anim\\bt_expiration_date_dialog_close.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_pulse.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_pulse.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_close_enter.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\bt_error_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\640ff80afce6b7b6df6be686ec52e802\\jetified-card-form-3.5.0\\res\\anim\\bt_error_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\fragment_open_exit.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\0144b52d6e6ae9efdc49d07efdcc7eef\\fragment-1.2.4\\res\\anim\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\anim\\alerter_slide_out_to_bottom.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\f6991b19a13dd6d89e373b51301fa5f9\\jetified-alerter-5.1.2\\res\\anim\\alerter_slide_out_to_bottom.xml"
+    }
+]

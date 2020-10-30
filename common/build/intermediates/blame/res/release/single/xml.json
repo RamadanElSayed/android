@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\xml\\standalone_badge.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\image_picker_provider_paths.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\52dcdf49cc967b1004a2372f662fac9e\\jetified-imagepicker-2.2.0\\res\\xml\\image_picker_provider_paths.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_offset.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\xml\\standalone_badge_offset.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\fast_out_slow_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\fast_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    }
+]

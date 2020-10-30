@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_review.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_coupon.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_coupon.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_coupon.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_edit_address.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_edit_address.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_travel.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_travel.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_travel_driver.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_driver.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_promotion.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_promotion.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_addresses.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_addresses.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_address.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_address.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_travel_stats.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_stats.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_travel_review.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\fragment_travel_review.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_service.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_edit_profile.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_promotions.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_promotions.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_looking.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_looking.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_rider_login.xml",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_rider_login.xml"
+    }
+]

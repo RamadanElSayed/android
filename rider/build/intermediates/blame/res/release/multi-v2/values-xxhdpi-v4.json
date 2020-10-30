@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\android\\android\\rider\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

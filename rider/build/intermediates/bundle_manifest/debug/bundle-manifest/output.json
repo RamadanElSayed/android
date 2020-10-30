@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.tawabsoft.taxi.rider",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 54,
+        "versionName": "3.1.11",
+        "outputFile": "rider-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.tawabsoft.taxi.rider",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}

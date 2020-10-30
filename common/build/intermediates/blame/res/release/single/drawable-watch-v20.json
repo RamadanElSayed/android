@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\547401fa9f7818240767f456a837cbd6\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\547401fa9f7818240767f456a837cbd6\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\547401fa9f7818240767f456a837cbd6\\jetified-play-services-auth-17.0.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "877784244661",
+    "firebase_url": "https://dubci-2020.firebaseio.com",
+    "project_id": "dubci-2020",
+    "storage_bucket": "dubci-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877784244661:android:5cf9c5ffb22c01f0a979fc",
+        "android_client_info": {
+          "package_name": "com.tawabsoft.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877784244661-29dfmms8j1clbts63tuboupekpjg2igb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLQPPAb9ZKW85rJ-duC2oCSBrUISAm2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877784244661-29dfmms8j1clbts63tuboupekpjg2igb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877784244661-1252jkhboej2rctmtvn1kn261q0l8f51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tawabsoft.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877784244661:android:0afbb80636f19e68a979fc",
+        "android_client_info": {
+          "package_name": "com.tawabsoft.taxi.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877784244661-29dfmms8j1clbts63tuboupekpjg2igb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLQPPAb9ZKW85rJ-duC2oCSBrUISAm2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877784244661-29dfmms8j1clbts63tuboupekpjg2igb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877784244661-1252jkhboej2rctmtvn1kn261q0l8f51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tawabsoft.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

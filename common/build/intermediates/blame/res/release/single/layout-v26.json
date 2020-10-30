@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\50ed64610fa9ae90a136fda8b8f19fc6\\appcompat-1.1.0\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\layout-v26\\mtrl_calendar_month.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\layout-v26\\mtrl_calendar_month.xml"
+    }
+]

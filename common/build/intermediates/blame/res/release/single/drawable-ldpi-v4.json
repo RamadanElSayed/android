@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_trash.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_trash.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_mastercard_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_mastercard_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_visa.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_visa.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_cvc_amex.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_cvc_amex.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_mastercard.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_mastercard.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_diners.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_diners.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_jcb_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_jcb_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_error.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_error.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_hong_leong.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_hong_leong.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_ocbc.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_ocbc.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_public.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_public.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_google_pay_mark.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_google_pay_mark.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_amex.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_amex.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_alliance.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_alliance.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_kfh.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_kfh.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_arrow.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_amex.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_amex.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_ambank.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_ambank.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_mastercard.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_mastercard.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_visa_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_visa_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_maybank.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_maybank.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_islam.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_islam.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_indicator.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_indicator.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_raykat.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_raykat.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_unknown.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_unknown.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_bsn.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_bsn.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_muamalat.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_muamalat.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_rhb.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_rhb.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_checkmark_tinted.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_checkmark_tinted.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\79f851be0d2939f607a6699ab1932af5\\jetified-ucrop-2.2.4\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_amex_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_amex_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_uob.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_uob.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\79f851be0d2939f607a6699ab1932af5\\jetified-ucrop-2.2.4\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_generic.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_generic.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_error.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_error.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_checkmark.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_checkmark.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_jcb.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_jcb.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_discover_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_discover_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_discover.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5bb8a8bc7a8fe681fb36a268eee3309a\\jetified-stripe-3ds2-android-3.0.2\\res\\drawable-ldpi-v4\\ic_discover.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_cvc.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_cvc.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_discover.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_discover.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_cimb.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_cimb.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_affin.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_affin.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_error_amex.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_error_amex.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_visa.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_visa.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_hsbc.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_hsbc.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_unionpay_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_unionpay_template_32.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_bank_standard_chartered.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_bank_standard_chartered.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_add_black_32dp.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_add_black_32dp.png"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stripe_ic_diners_template_32.png",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\9ee29b21f7ac8fe9b1fef32fad6f0ecf\\jetified-stripe-android-14.5.0\\res\\drawable-ldpi-v4\\stripe_ic_diners_template_32.png"
+    }
+]

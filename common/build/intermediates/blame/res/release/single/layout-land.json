@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\layout-land\\fui_auth_method_picker_layout.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\c4af58c99290f01fd46133a37fdcc840\\jetified-firebase-ui-auth-6.2.1\\res\\layout-land\\fui_auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\common\\build\\intermediates\\res\\merged\\release\\layout-land\\mtrl_picker_header_dialog.xml",
+        "source": "C:\\Users\\RSE\\.gradle\\caches\\transforms-2\\files-2.1\\5b99c8894a587ed49bc762545f438f3c\\material-1.2.0-alpha05\\res\\layout-land\\mtrl_picker_header_dialog.xml"
+    }
+]
