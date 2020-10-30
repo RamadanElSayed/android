@@ -70,6 +70,7 @@ class SplashActivity : BaseActivity(), LocationListener {
         Places.createClient(this)
          var sharedPreferences = getSharedPreferences("com.tawabsoft.taxi.rider_pref", Context.MODE_PRIVATE)
         appPreferences = AppPreferences(sharedPreferences)
+       // test
 //        binding.loginButton.setOnClickListener {
 //            startActivityForResult(
 //                    AuthUI.getInstance()
