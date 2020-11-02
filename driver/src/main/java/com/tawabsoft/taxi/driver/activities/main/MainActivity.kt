@@ -93,7 +93,8 @@ class MainActivity : DriverBaseActivity(), OnMapReadyCallback, LocationListener,
             }
             ActivityCompat.requestPermissions(this@MainActivity, permissions, requestLocationCode)
         }
-        binding.buttonOpenLocationSettings.setOnClickListener { startActivity(Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS, Uri.parse("package:$packageName"))) }
+        binding.buttonOpenLocationSettings.setOnClickListener{
+            startActivity(Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS, Uri.parse("package:$packageName"))) }
         setSupportActionBar(binding.appbar)
         val actionBar = supportActionBar
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {

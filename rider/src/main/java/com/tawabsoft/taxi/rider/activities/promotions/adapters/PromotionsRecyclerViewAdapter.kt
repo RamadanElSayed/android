@@ -6,7 +6,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.tawabsoft.taxi.common.models.Promotion
 import com.tawabsoft.taxi.rider.databinding.ItemPromotionBinding
 
-class PromotionsRecyclerViewAdapter(private val promotions: List<Promotion?>?) : RecyclerView.Adapter<PromotionsRecyclerViewAdapter.ViewHolder>() {
+class PromotionsRecyclerViewAdapter(private val promotions: List<Promotion?>?) :
+        RecyclerView.Adapter<PromotionsRecyclerViewAdapter.ViewHolder>() {
 
     class ViewHolder(var binding: ItemPromotionBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(promotion: Promotion?) {

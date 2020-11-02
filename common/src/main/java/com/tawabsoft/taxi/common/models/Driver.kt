@@ -46,7 +46,11 @@ data class Driver(
     }
 
     enum class Status(val value: String) {
-        @Json(name="offline")Offline("offline"), @Json(name="online")Online("online"), @Json(name="in service")InService("in service"), @Json(name="blocked")Blocked("blocked"), @Json(name="pending approval")PendingApproval("pending approval"), @Json(name="waiting documents")WaitingDocuments("waiting documents"), @Json(name="soft reject")SoftReject("soft reject"), @Json(name="hard reject")HardReject("hard reject");
+        @Json(name="offline")Offline("offline"), @Json(name="online")Online("online"),
+        @Json(name="in service")InService("in service"), @Json(name="blocked")Blocked("blocked"),
+        @Json(name="pending approval")PendingApproval("pending approval"),
+        @Json(name="waiting documents")WaitingDocuments("waiting documents"),
+        @Json(name="soft reject")SoftReject("soft reject"), @Json(name="hard reject")HardReject("hard reject");
 
         companion object {
             operator fun get(code: String): Status {

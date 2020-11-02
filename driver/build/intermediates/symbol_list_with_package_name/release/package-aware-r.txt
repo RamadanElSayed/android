@@ -2660,6 +2660,7 @@ id actions
 id activity_chooser_view_content
 id activity_contact_us
 id activity_mock
+id activity_splash
 id add
 id add_payment_method_card
 id address_text_layout
@@ -3079,10 +3080,8 @@ id list_item
 id llAlertBackground
 id llButtonContainer
 id loading_indicator
-id login_button
 id logo
 id logo_id
-id logo_image
 id lottie_layer_name
 id main
 id main_tos_and_pp
@@ -3439,6 +3438,7 @@ id useLogo
 id vAlertContentContainer
 id value
 id verify_layout
+id videoView
 id view_alpha
 id view_offset_helper
 id view_overlay
@@ -3817,6 +3817,7 @@ raw mpl_20_summary
 raw notices
 raw sil_ofl_11_full
 raw sil_ofl_11_summary
+raw splash
 raw tokenize_credit_card_mutation
 string abc_action_bar_home_description
 string abc_action_bar_up_description

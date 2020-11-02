@@ -4,38 +4,28 @@ package com.tawabsoft.taxi.rider.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.ProgressBar;
-import android.widget.TextView;
+import android.widget.RelativeLayout;
+import android.widget.VideoView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
-import com.google.android.material.button.MaterialButton;
 import com.tawabsoft.taxi.rider.R;
 import java.lang.Deprecated;
 import java.lang.Object;
 
 public abstract class ActivitySplashBinding extends ViewDataBinding {
   @NonNull
-  public final MaterialButton loginButton;
+  public final RelativeLayout activitySplash;
 
   @NonNull
-  public final ImageView logoImage;
-
-  @NonNull
-  public final ProgressBar progressBar;
-
-  @NonNull
-  public final TextView textView;
+  public final VideoView videoView;
 
   protected ActivitySplashBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      MaterialButton loginButton, ImageView logoImage, ProgressBar progressBar, TextView textView) {
+      RelativeLayout activitySplash, VideoView videoView) {
     super(_bindingComponent, _root, _localFieldCount);
-    this.loginButton = loginButton;
-    this.logoImage = logoImage;
-    this.progressBar = progressBar;
-    this.textView = textView;
+    this.activitySplash = activitySplash;
+    this.videoView = videoView;
   }
 
   @NonNull

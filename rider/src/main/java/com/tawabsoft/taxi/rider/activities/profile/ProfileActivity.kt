@@ -41,10 +41,13 @@ class ProfileActivity : BaseActivity() {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_edit_profile)
         val adapter = ArrayAdapter(this, android.R.layout.simple_dropdown_item_1line, resources.getStringArray(R.array.genders))
         binding.genderAutocomplete.setAdapter(adapter)
-        rider = preferences.rider
-        binding.user = rider
-        DataBinder.setMedia(binding.profileImage, rider!!.media)
+        if(preferences.rider!=null) {
+            rider = preferences.rider
+            binding.user = rider
+            DataBinder.setMedia(binding.profileImage, rider!!.media)
+        }
         binding.fabAddPhoto.setOnClickListener{ profileImageClicked() }
+
         initializeToolbar("")
     }
 

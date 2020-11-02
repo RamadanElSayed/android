@@ -5343,6 +5343,7 @@ int raw mpl_20_summary 0x0
 int raw notices 0x0
 int raw sil_ofl_11_full 0x0
 int raw sil_ofl_11_summary 0x0
+int raw splash 0x0
 int raw tokenize_credit_card_mutation 0x0
 int string abc_action_bar_home_description 0x0
 int string abc_action_bar_home_description_format 0x0

@@ -5344,6 +5344,7 @@ raw mpl_20_summary
 raw notices
 raw sil_ofl_11_full
 raw sil_ofl_11_summary
+raw splash
 raw tokenize_credit_card_mutation
 string abc_action_bar_home_description
 string abc_action_bar_home_description_format

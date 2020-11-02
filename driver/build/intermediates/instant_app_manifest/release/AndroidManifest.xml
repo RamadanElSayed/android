@@ -62,9 +62,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.tawabsoft.taxi.common.activities.chargeAccount.ChargeAccountActivity" />
-        <activity
-            android:name="com.tawabsoft.taxi.driver.activities.splash.SplashActivity"
-            android:theme="@style/ContentMainBadgeTitle" >
+        <activity android:name="com.tawabsoft.taxi.driver.activities.splash.SplashActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />

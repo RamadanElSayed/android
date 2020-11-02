@@ -68,12 +68,12 @@
         "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable-hdpi\\group_9848.png"
     },
     {
-        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_addresses.xml.flat",
-        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_addresses.xml"
-    },
-    {
         "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_service.xml.flat",
         "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_activity_addresses.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\layout\\activity_addresses.xml"
     },
     {
         "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\layout_item_address.xml.flat",
@@ -84,12 +84,12 @@
         "source": "E:\\android\\android\\rider\\src\\main\\res\\font\\campton_extra_light.ttf"
     },
     {
-        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_main_activity_menu.xml.flat",
-        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\main_activity_menu.xml"
-    },
-    {
         "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable_favorite.xml.flat",
         "source": "E:\\android\\android\\rider\\src\\main\\res\\drawable\\favorite.xml"
+    },
+    {
+        "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\menu_main_activity_menu.xml.flat",
+        "source": "E:\\android\\android\\rider\\src\\main\\res\\menu\\main_activity_menu.xml"
     },
     {
         "merged": "E:\\android\\android\\rider\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_dubci_logo_hq.png.flat",

@@ -14,31 +14,23 @@ public class ActivitySplashBindingImpl extends ActivitySplashBinding  {
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.logo_image, 1);
-        sViewsWithIds.put(R.id.login_button, 2);
-        sViewsWithIds.put(R.id.progress_bar, 3);
-        sViewsWithIds.put(R.id.textView, 4);
+        sViewsWithIds.put(R.id.videoView, 1);
     }
     // views
-    @NonNull
-    private final androidx.constraintlayout.widget.ConstraintLayout mboundView0;
     // variables
     // values
     // listeners
     // Inverse Binding Event Handlers
 
     public ActivitySplashBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 5, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 2, sIncludes, sViewsWithIds));
     }
     private ActivitySplashBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
-            , (com.google.android.material.button.MaterialButton) bindings[2]
-            , (android.widget.ImageView) bindings[1]
-            , (android.widget.ProgressBar) bindings[3]
-            , (android.widget.TextView) bindings[4]
+            , (android.widget.RelativeLayout) bindings[0]
+            , (android.widget.VideoView) bindings[1]
             );
-        this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
-        this.mboundView0.setTag(null);
+        this.activitySplash.setTag(null);
         setRootTag(root);
         // listeners
         invalidateAll();

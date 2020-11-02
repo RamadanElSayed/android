@@ -173,6 +173,7 @@ layout toolbar
 layout toolbar_constraint
 menu actionbar_save
 raw map_night
+raw splash
 string about_contacts
 string about_driver_description
 string about_rider_description
